@@ -1,0 +1,26 @@
+{
+  "name": "api-cop30",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/JGuilherme-aa1603/api-semana-ubiqua#readme",
+  "bugs": {
+    "url": "https://github.com/JGuilherme-aa1603/api-semana-ubiqua/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JGuilherme-aa1603/api-semana-ubiqua.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "sqlite3": "^5.1.7"
+  }
+}
